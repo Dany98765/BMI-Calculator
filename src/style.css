@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black
+}
+.input1{
+    margin: 70px;
+    border-radius: 10px;
+    border-color: blue;
+    text-align: center;
+    width: 33%;
+    justify-content: flex-start;
+}
+.input2{
+    border-radius: 10px;
+    border-color: blue;
+    text-align: center;
+    width: 33%;
+}
+.title{
+    color: chartreuse
+}
+.button{
+    background-color: #C9F3FF;
+    border-radius: 30px;
+    width:100%;
+    height:10%;
+    align-self: center;
+}
+.state{
+    color: red
+}
+.BMI{
+    color: #F99D7B
+}
+
+.statement{
+    color: #BEABED
+}
